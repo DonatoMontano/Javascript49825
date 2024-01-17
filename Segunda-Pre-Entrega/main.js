@@ -1,4 +1,3 @@
-// Objeto que representa un producto
 function Producto(nombre, precio, stock) {
   this.nombre = nombre;
   this.precio = precio;
